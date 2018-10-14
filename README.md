@@ -56,7 +56,7 @@ Netlify の特徴的な動作は次のとおりです。
 
 * ドメイン・サーバ名のみの場合、末尾を / で終わらせる必要があります。（MJ GETS 15ja.ml/)
 * GET・GETS コマンド末尾の改行有無はコマンド追記の有無に影響します。
-* IchigoJam BASIC のカナ文字は Shift_JIS 半角カナ と同じコードです。GitHub の Web 上は UTF-8 なので文字化けします。
+* IchigoJam BASIC のカナは Shift_JIS 半角カナ と同じコードです。GitHub Web 上は UTF-8 なので文字化けします。
 * このファイル README.md も合わせて情報を追加・編集して下さい。
 
 ### 管理状態
