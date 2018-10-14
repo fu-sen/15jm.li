@@ -23,7 +23,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 で目的のサイトへ転送、または GET・GETS コマンドの途中までを表示し、<br>
 入力によって補完します。
 
-2018年10月現在の登録サイトは次のとおりです。
+現在の 15ja.ml 登録サイトは次のとおりです。
 
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/k">15ja.ml/K</a> - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/p">15ja.ml/P</a> - ichigojam.net プログラムコレクション**
@@ -66,5 +66,5 @@ Netlify の特徴的な動作は次のとおりです。
 
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
-* 2018年10月14日 ソース GutHub 共通開始
+* 2018年10月14日 ソース GutHub 共有開始
 * 2018年10月11日 運営開始
