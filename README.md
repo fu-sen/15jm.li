@@ -27,7 +27,6 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/k">15ja.ml/K</a> - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/p">15ja.ml/P</a> - ichigojam.net プログラムコレクション**
-<!-- ここまでは IchigoJam 公式なので固定、ここから A→Z 順 -->
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/b">15ja.ml/B</a> - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/m">15ja.ml/M</a> - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
 * **<a href="https://github.com/fu-sen/15ja.ml/blob/master/o">15ja.ml/O</a> - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
@@ -41,6 +40,19 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 15ja.ml からの参照は IchigoJam BASIC+MixJuice で参照できるコンテンツに限られます。<br>
 独自ドメインの特性上、パソコン・スマートフォン向け Web へのリンクは行いません。<br>
 Issues・Pull requests していただくか、管理人へご連絡下さい。
+
+Netlify の特徴的な動作は次のとおりです。
+
+* 大文字・小文字の区別はありません。ファイル名は小文字ですが、大文字で参照できます。
+* Not Found はデフォルトで / に 404.html を置く事で任意の表示にできます。
+* 拡張子の制限はありません。したがって 1 文字のファイル名も有効です。
+* 動的なスクリプトは動作しませんが、_header・_redirects などの機能があります。
+
+直接ソースを追加・編集する場合は、次の点にもご注意下さい。
+
+* MixJuice はドメイン・サーバ名のみの場合、末尾を / で終わらせる必要があります。（MJ GETS 15ja.ml**/**)
+* GET・GETS コマンド末尾の改行有無はコマンド追記の有無に影響します。
+* このファイル README.md も合わせて情報を追加・編集して下さい。
 
 ### 管理状態
 
