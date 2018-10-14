@@ -2,9 +2,9 @@
 
 MixJuice を使っていて困っていたのが
 
-?"MJ GETS 15jam.netlify.com/
+?"MJ GETS fu-sen.github.io/IJHELP/
 
-このようなアドレスを手入力する必要があった事です。<br>
+このような長いアドレスを手入力する必要があった事です。<br>
 その解決手段として短縮 URL を考えていましたが、<br>
 bit.ly などの Web 向けは http ステータス 301 やフレームを用いていて、<br>
 MixJuice ではこの方法による転送処理を行う事ができません。<br>
@@ -29,9 +29,11 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 * **P - ichigojam.net プログラムコレクション**
 * **B - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
 * **M - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
-* **O - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a><br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
-* **R - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>
-* **S - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a><br>ファイル名を入力して下さい。
+* **O - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
+* **R - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>**
+* **S - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a>**<br>ファイル名を入力して下さい。
+
+<a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
 ### 追加方法
 
@@ -41,7 +43,7 @@ Issues・Pull requests していただくか、管理人へご連絡下さい。
 
 ### 管理状態
 
-完全に管理費無料で運営しています。
+完全にドメイン・サーバ費用無料で運営しています。
 
 * 独自ドメイン - <a href="https://www.freenom.com/" target="_blank">freenom</a>
 * 公開サーバ - <a href="https://www.netlify.com/" target="_blank">Netlify</a>
@@ -49,4 +51,7 @@ Issues・Pull requests していただくか、管理人へご連絡下さい。
 
 ### 運営
 
-* イチゴジャム レシピ https://15jamrecipe.jimdo.com/
+イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
+
+* 2018年10月14日 ソース GutHub 共通開始
+* 2018年10月11日 運営開始
