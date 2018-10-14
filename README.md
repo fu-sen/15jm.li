@@ -25,13 +25,14 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 2018年10月現在の登録サイトは次のとおりです。
 
-* **K - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
-* **P - ichigojam.net プログラムコレクション**
-* **B - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
-* **M - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
-* **O - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
-* **R - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>**
-* **S - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a>**<br>ファイル名を入力して下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/k">15ja.ml/K</a> - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/p">15ja.ml/P</a> - ichigojam.net プログラムコレクション**
+<!-- ここまでは IchigoJam 公式なので固定、ここから A→Z 順 -->
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/b">15ja.ml/B</a> - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/m">15ja.ml/M</a> - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/o">15ja.ml/O</a> - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/r">15ja.ml/R</a> - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/s">15ja.ml/S</a> - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a>**<br>ファイル名を入力して下さい。
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
