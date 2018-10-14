@@ -12,6 +12,10 @@ MixJuice ではこの方法による転送処理を行う事ができません�
 
 ### 使用方法
 
+MixJuice 1.2.2 および MicJack で参照できます。<br>
+運営サーバ Netlify の SSL は MixJuice 1.2.1 以前では参照できませんので、<br>
+MixJuice を使用している場合は最新バージョンへ更新して下さい。
+
 IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 **?"MJ GETS 15ja.ml/**
