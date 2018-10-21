@@ -1,1 +1,0 @@
-?"MJ GET comich.net/ichigojam/
