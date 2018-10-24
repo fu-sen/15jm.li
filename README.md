@@ -31,7 +31,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 |アドレス|MixJuice コンテンツ|追加|
 ----|----|----
-|<a href="https://github.com/fu-sen/15ja.ml/blob/master/K">15ja.ml/K</a>|<a href="http://kidspod.club/">Kidspod;</a>**|Kidspod; ID|
+|<a href="https://github.com/fu-sen/15ja.ml/blob/master/K">15ja.ml/K</a>|<a href="http://kidspod.club/">Kidspod;</a>|Kidspod; ID|
 |<a href="https://github.com/fu-sen/15ja.ml/blob/master/P">15ja.ml/P</a>|<a href="https://www.facebook.com/groups/ichigojam/permalink/718281468311609/" target="_blank">ichigojam.net プログラムコレクション</a>| |
 |<a href="https://github.com/fu-sen/15ja.ml/blob/master/B">15ja.ml/B</a>|<a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>| |
 |<a href="https://github.com/fu-sen/15ja.ml/blob/master/M">15ja.ml/M</a>|<a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>| |
