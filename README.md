@@ -29,13 +29,13 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 現在の 15ja.ml 登録サイトは次のとおりです。
 
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/k">15ja.ml/K</a> - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/p">15ja.ml/P</a> - <a href="https://www.facebook.com/groups/ichigojam/permalink/718281468311609/" target="_blank">ichigojam.net プログラムコレクション</a>**
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/b">15ja.ml/B</a> - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/m">15ja.ml/M</a> - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/o">15ja.ml/O</a> - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/r">15ja.ml/R</a> - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>**
-* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/s">15ja.ml/S</a> - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a>**<br>ファイル名を入力して下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/K">15ja.ml/K</a> - <a href="http://kidspod.club/">Kidspod;</a>**<br>MixJuice GET URL を表示します。Kidspod; ID を入れて下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/P">15ja.ml/P</a> - <a href="https://www.facebook.com/groups/ichigojam/permalink/718281468311609/" target="_blank">ichigojam.net プログラムコレクション</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/B">15ja.ml/B</a> - <a href="https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html" target="_blank">ボクにもわかる for MixJuice</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/M">15ja.ml/M</a> - <a href="http://ijutilities.micutil.com/" target="_blank">Micono Utilities for MixJuice</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/O">15ja.ml/O</a> - <a href="http://www.openspc2.org/reibun/IchigoJam/" target="_blank">IchigoJamを楽しもう</a>**<br>IchigoJam + MixJuice用サービス を参照の上、追加入力して下さい。
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/R">15ja.ml/R</a> - <a href="https://15jamrecipe.jimdo.com/" target="_blank">イチゴジャム レシピ MixJuice コンテンツ</a>**
+* **<a href="https://github.com/fu-sen/15ja.ml/blob/master/S">15ja.ml/S</a> - <a href="http://comich.net/ichigojam/" target="_blank">IchigoJamプログラム集 by Shiro Saito</a>**<br>ファイル名を入力して下さい。
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
