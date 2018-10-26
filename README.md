@@ -2,8 +2,9 @@
 
 MixJuice を使っていて困っていたのが
 
-    ?"MJ GETS fu-sen.github.io/IJHELP/
-
+```
+?"MJ GETS fu-sen.github.io/IJHELP/
+```
 
 このような長いアドレスを手入力する必要があった事です。<br>
 その解決手段として短縮 URL を考えていましたが、<br>
@@ -20,12 +21,15 @@ MixJuice を使用している場合は最新バージョンへ更新して下�
 
 IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
-    **?"MJ GETS 15ja.ml/**
-
+```
+?"MJ GETS 15ja.ml/
+```
 
 で一覧が表示されます。
 
-    **?"MJ GETS 15ja.ml/●**
+```
+?"MJ GETS 15ja.ml/●
+```
 
 で目的のサイトへ転送、<br>
 または GET・GETS コマンドの途中までを表示し、入力によって補完します。
