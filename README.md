@@ -1,5 +1,7 @@
 ## 15ja.ml - MixJuice 短縮 URL
 
+![15ja.ml スクリーンショット](https://fu-sen.github.io/15ja.ml/screenshot.jpg)
+
 MixJuice を使っていて困っていたのが
 
 ```
