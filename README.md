@@ -40,7 +40,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 現在 15ja.ml で登録している MixJuice コンテンツは次のとおりです。
 
-|アドレス|MixJuice コンテンツ|追加|
+|アドレス|MixJuice コンテンツ|追加入力|
 ----|----|----
 |<a href="https://github.com/fu-sen/15ja.ml/blob/master/K">15ja.ml/K</a>|<a href="http://kidspod.club/">Kidspod;</a>|Kidspod; ID|
 |<a href="https://github.com/fu-sen/15ja.ml/blob/master/P">15ja.ml/P</a>|<a href="https://www.facebook.com/groups/ichigojam/permalink/718281468311609/" target="_blank">ichigojam.net プログラムコレクション</a>| |
