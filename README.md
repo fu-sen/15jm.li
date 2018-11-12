@@ -66,7 +66,11 @@ Netlify の特徴的な動作は次のとおりです。
 * 動的なスクリプトは動作しませんが、_header・_redirects などの機能があります。
 
 index.html・404.html は IchigoJam BASIC で表示するためのキャラクターを含めています。<br>
-テキストエディタで編集すると、デザインを破損する恐れがありますので、<br>
+IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。
+
+[IjUtilities](http://ijutilities.micutil.com/)
+
+通常のテキストエディタで編集すると、デザインを破損する恐れがあります。<br>
 ファイルを直接編集して Pull request しようとしている場合はご注意下さい。
 
 ### 管理状態
