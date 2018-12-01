@@ -40,7 +40,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 ?"MJ GETS 15ja.ml/●/～～～
 ```
 
-2018年12月より補充部分を / 区切りで後ろに付けて動作できるようになりました。
+2018年12月より追加入力部分を / 区切りで後ろに付けて動作できるようになりました。
 
 ### 15ja.ml 登録コンテンツ
 
@@ -79,6 +79,9 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 通常のテキストエディタで編集すると、デザインを破損する恐れがあります。<br>
 ファイルを直接編集して Pull request しようとしている場合はご注意下さい。
 
+15ja.ml/●/追加入力 の場合は PHP へ一度渡して処理しています。<br>
+こちらはセキュリティの考慮上ソースは非公開です。必要な場合に追加いたします。
+
 ### 管理状態
 
 完全にドメイン・サーバ費用無料で運営しています。
@@ -86,10 +89,12 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 * 独自ドメイン - <a href="https://www.freenom.com/" target="_blank">freenom</a>
 * 公開サーバ - <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 * ソース管理 - <a href="https://github.com/" target="_blank">GitHub</a>
+* PHP サーバ - <a href="https://jp.heroku.com/" target="_blank">Heroku</a>
 
 ### 運営
 
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
+* 2018年12月1日 15ja.ml/●/～～～ の動作に対応
 * 2018年10月14日 ソース GutHub 共有開始
 * 2018年10月11日 運営開始
