@@ -1,5 +1,9 @@
+/B/* https://m-j.herokuapp.com/b.php/:splat 200
+/b/* https://m-j.herokuapp.com/b.php/:splat 200
 /K/* https://m-j.herokuapp.com/k.php/:splat 200
 /k/* https://m-j.herokuapp.com/k.php/:splat 200
+/M/* https://m-j.herokuapp.com/m.php/:splat 200
+/m/* https://m-j.herokuapp.com/m.php/:splat 200
 /O/* https://m-j.herokuapp.com/o.php/:splat 200
 /o/* https://m-j.herokuapp.com/o.php/:splat 200
 /P/* https://m-j.herokuapp.com/p.php/:splat 200
