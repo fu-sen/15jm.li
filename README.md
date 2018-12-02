@@ -82,7 +82,7 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 15ja.ml/●/～～～ は PHP へ渡して処理しています。
 
-[fu-sen/mjp.arukascloud.io](https://github.com/fu-sen/mjp.arukascloud.io)
+[fu-sen/mjp.arukascloud.io](https://github.com/fu-sen/mjp.arukascloud.io)<br />
 [fu-sen/m-j.herokuapp.com](https://github.com/fu-sen/m-j.herokuapp.com)（予備）
 
 必要な場合、こちらの .php ファイル追加も必要です。
