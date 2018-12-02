@@ -82,7 +82,8 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 15ja.ml/●/～～～ は PHP へ渡して処理しています。
 
-[fu-sen/m-j.herokuapp.com](https://github.com/fu-sen/m-j.herokuapp.com)
+[fu-sen/mjp.arukascloud.io](https://github.com/fu-sen/mjp.arukascloud.io)
+[fu-sen/m-j.herokuapp.com](https://github.com/fu-sen/m-j.herokuapp.com)（予備）
 
 必要な場合、こちらの .php ファイル追加も必要です。
 
@@ -93,7 +94,7 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 * 独自ドメイン - <a href="https://www.freenom.com/" target="_blank">freenom</a>
 * 公開サーバ - <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 * ソース管理 - <a href="https://github.com/" target="_blank">GitHub</a>
-* PHP サーバ - <a href="https://jp.heroku.com/" target="_blank">Heroku</a>
+* PHP サーバ - <a href="https://arukas.io/" target="_blank">Arukas</a>（<a href="http://www.sakura.ad.jp/" target="_blank">さくらインターネット</a> の Docker ホスティング）/ <a href="https://jp.heroku.com/" target="_blank">Heroku</a>（予備）
 
 ## 運営
 
