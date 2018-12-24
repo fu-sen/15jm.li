@@ -91,10 +91,10 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 完全にドメイン・サーバ費用無料で運営しています。
 
-* 独自ドメイン - <a href="https://www.freenom.com/" target="_blank">freenom</a>
-* 公開サーバ - <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-* ソース管理 - <a href="https://github.com/" target="_blank">GitHub</a>
-* PHP サーバ - <a href="https://arukas.io/" target="_blank">Arukas</a>（<a href="http://www.sakura.ad.jp/" target="_blank">さくらインターネット</a> の Docker ホスティング）/ <a href="https://jp.heroku.com/" target="_blank">Heroku</a>（予備）
+* ソース管理 - [GitHub](https://github.com/)
+* 独自ドメイン - [Freenom](https://www.freenom.com/)
+* 公開 Web サーバ - [Netlify](https://www.netlify.com/)
+* PHP サーバ - [Arukas](https://arukas.io/)（[さくらインターネット](http://www.sakura.ad.jp/) の Docker ホスティング）/ [Heroku](https://jp.heroku.com/)（予備）
 
 ## 運営
 
