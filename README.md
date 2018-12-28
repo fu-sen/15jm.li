@@ -36,13 +36,6 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 で目的のサイトへ転送、<br>
 または GET・GETS コマンドの途中までを表示し、入力によって補完します。
 
-```
-?"MJ GETS 15ja.ml/●/～～～
-```
-
-2018年12月より追加入力部分を / 区切りで後ろに付けての動作に対応しています。\
-現状では 15ja.ml/● → 転送先を確認し、追加入力 の使用がおすすめです。
-
 ## 15ja.ml 登録コンテンツ
 
 現在 15ja.ml で登録している MixJuice コンテンツは次のとおりです。
@@ -80,13 +73,6 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 通常のテキストエディタで編集すると、デザインを破損する恐れがあります。\
 ファイルを直接編集して Pull request しようとしている場合はご注意下さい。
 
-15ja.ml/●/～～～ は PHP へ渡して処理しています。
-
-[fu-sen/mjp.arukascloud.io](https://github.com/fu-sen/mjp.arukascloud.io)\
-[fu-sen/m-j.herokuapp.com](https://github.com/fu-sen/m-j.herokuapp.com)（予備）
-
-必要な場合、こちらの .php ファイル追加も必要です。
-
 ## 管理状態
 
 完全にドメイン・サーバ費用無料で運営しています。
@@ -94,12 +80,10 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 * ソース管理 - [GitHub](https://github.com/)
 * 独自ドメイン - [Freenom](https://www.freenom.com/)
 * 公開 Web サーバ - [Netlify](https://www.netlify.com/)
-* PHP サーバ - [Arukas](https://arukas.io/)（[さくらインターネット](http://www.sakura.ad.jp/) の Docker ホスティング）/ [Heroku](https://jp.heroku.com/)（予備）
 
 ## 運営
 
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
-* 2018/12/01 15ja.ml/●/～～～ の動作に対応
 * 2018/10/14 ソース GutHub 共有開始
 * 2018/10/11 運営開始
