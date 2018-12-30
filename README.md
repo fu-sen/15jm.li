@@ -5,7 +5,7 @@
 MixJuice を使っていて困っていたのが
 
 ```
-?"MJ GETS fu-sen.github.io/15ja.ml/
+?"MJ GETS fu-sen.github.io/IJHELP/
 ```
 
 このような長いアドレスを手入力する必要があった事です。\
@@ -16,10 +16,11 @@ MixJuice はこの転送方法を処理できません。\
 
 ## 使用方法
 
-**15ja.ml は MixJuice 1.2.2 および MicJack で参照できます。**\
-運営サーバ Netlify の SSL は MixJuice 1.2.1 以前では参照できませんので、\
+**15ja.ml の GETS は MixJuice 1.2.2 および MicJack で参照できます。**\
+MixJuice 1.2.1 以前では GET に変更して参照できますが、\
+参照できないコンテンツが今後増えてくる恐れがありますので、\
 MixJuice を使用している場合は最新バージョンへ更新して下さい。\
-（他に GitHub Pages の SSL も現在 MixJuice 1.2.2 以降必須になっています）
+（イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須）
 
 IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
@@ -52,18 +53,14 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
+2018年12月30日より GitHub Pages へ移したため、**英 1 文字は大文字必須**となりました。\
+小文字では参照できませんのでご注意下さい。
+
 ## 追加方法
 
 15ja.ml からの参照は IchigoJam BASIC+MixJuice で参照できるコンテンツに限られます。\
 独自ドメインの特性上、パソコン・スマートフォン向け Web へのリンクは行いません。\
 Issues・Pull Request していただくか、直接管理人へご連絡下さい。
-
-Netlify の特徴的な動作は次のとおりです。
-
-* 大文字・小文字の区別はありません。（他サーバ移行時の考慮で大文字にしてあります）
-* Not Found はデフォルトで / に 404.html を置く事で任意の表示にできます。
-* 拡張子の制限はありません。したがって 1 文字のファイル名も有効です。
-* 動的なスクリプトは動作しませんが、_header・_redirects などの機能があります。
 
 index.html・404.html は IchigoJam BASIC で表示するためのキャラクターを含めています。\
 IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。
@@ -79,11 +76,12 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 * ソース管理 - [GitHub](https://github.com/)
 * 独自ドメイン - [Freenom](https://www.freenom.com/)
-* 公開 Web サーバ - [Netlify](https://www.netlify.com/)
+* 公開 Web サーバ - [GitHub Pages](https://pages.github.com/)
 
 ## 運営
 
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
+* 2018/12/30 運営サーバを GitHub Pages へ移動（GET 参照可能に）
 * 2018/10/14 ソース GutHub 共有開始
 * 2018/10/11 運営開始
