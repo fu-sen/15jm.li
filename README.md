@@ -63,9 +63,10 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 Issues・Pull Request していただくか、直接管理人へご連絡下さい。
 
 index.html・404.html は IchigoJam BASIC で表示するためのキャラクターを含めています。\
-IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。
+IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。\
+ただし、末尾に改行が含まれるため、バイナリーエディターで削除が必要です。
 
-[IjUtilities](http://ijutilities.micutil.com/)
+[IJUtilities](http://ijutilities.micutil.com/)
 
 通常のテキストエディタで編集すると、デザインを破損する恐れがあります。\
 ファイルを直接編集して Pull request しようとしている場合はご注意下さい。
