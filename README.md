@@ -16,22 +16,17 @@ MixJuice はこの転送方法を処理できません。\
 
 ## 使用方法
 
-**15ja.ml の GETS は MixJuice 1.2.2 および MicJack で参照できます。**\
-MixJuice 1.2.1 以前では GET に変更して参照できますが、\
-参照できないコンテンツが今後増えてくる恐れがありますので、\
-MixJuice を使用している場合は最新バージョンへ更新して下さい。\
-（イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須）
-
 IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 ```
-?"MJ GETS 15ja.ml/
+?"MJ GET 15ja.ml/
 ```
 
-で一覧が表示されます。
+で一覧が表示されます。\
+GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降または MicJack）
 
 ```
-?"MJ GETS 15ja.ml/●
+?"MJ GET 15ja.ml/●
 ```
 
 で目的のサイトへ転送、<br>
@@ -55,6 +50,9 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。
 
 2018年12月30日より GitHub Pages へ移したため、**英 1 文字は大文字必須**となりました。\
 小文字では参照できませんのでご注意下さい。
+
+イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 対応です。\
+MixJuice 1.2.1 以前では参照できません。最新バージョンへ更新して下さい。
 
 ## 追加方法
 
