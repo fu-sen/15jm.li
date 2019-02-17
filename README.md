@@ -52,7 +52,7 @@ GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降ま
 小文字では参照できませんのでご注意下さい。
 
 15ja.ml 転送の イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 対応です。\
-MixJuice 1.2.1 以前では代わりに **[15ja.tk](https://github.com/fu-sen/15jr.tk)/1** で参照できます。
+MixJuice 1.2.1 以前では代わりに **[15jr.tk](https://github.com/fu-sen/15jr.tk)/1** で参照できます。
 
 ## 追加方法
 
