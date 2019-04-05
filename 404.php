@@ -9,5 +9,5 @@ header('Content-Type: text/plain');
 '…Œ… …ˆŠŠŠŠŠ ŠŠŠ … …ŠŠŠŠŠ
 'ŒŒ„Œ…ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
-
-?"MJ GET 15ja.ml/
+<?php
+print '?"MJ GET 15ja.ml/' . $path;
