@@ -1,7 +1,7 @@
 <?php
 if (empty($data))
 {
-   echo '?"MJ GET www.openspc2.org/data/';
+   echo "?\"MJ GET www.openspc2.org/data/";
 }
 else
 {

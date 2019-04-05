@@ -1,7 +1,7 @@
 <?php
 if (empty($data))
 {
-   echo '?"MJ GET bokunimowakaru.github.io/MJ/\n';
+   echo "?\"MJ GET bokunimowakaru.github.io/MJ/\n";
 }
 else
 {

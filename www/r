@@ -1,7 +1,7 @@
 <?php
 if (empty($data))
 {
-   echo '?"MJ GET 15jr.tk/';
+   echo "?\"MJ GET 15jr.tk/\n";
 }
 else
 {

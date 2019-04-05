@@ -1,7 +1,7 @@
 <?php
 if (empty($data))
 {
-   echo '?"MJ GETS ichigojam.net/p/';
+   echo "?\"MJ GETS ichigojam.net/p/\n";
 }
 else
 {
