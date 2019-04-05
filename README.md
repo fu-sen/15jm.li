@@ -48,19 +48,14 @@ GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降ま
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
-2018年12月30日より GitHub Pages へ移したため、**英 1 文字は大文字必須**となりました。\
-小文字では参照できませんのでご注意下さい。
-
-15ja.ml 転送の イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 対応です。\
-MixJuice 1.2.1 以前では代わりに **[15jr.tk](https://github.com/fu-sen/15jr.tk)/1** で参照できます。
-
 ## 追加方法
 
 15ja.ml からの参照は IchigoJam BASIC+MixJuice で参照できるコンテンツに限られます。\
 独自ドメインの特性上、パソコン・スマートフォン向け Web へのリンクは行いません。\
 Issues・Pull Request していただくか、直接管理人へご連絡下さい。
 
-index.html・404.html は IchigoJam BASIC で表示するためのキャラクターを含めています。\
+www 下が実際に表示している内容ですが、404.php は Not Found で表示します。\
+www/index.html・404.html は IchigoJam BASIC で表示するためのキャラクターを含めています。\
 IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。\
 ただし、末尾に改行が含まれるため、バイナリーエディターで削除が必要です。
 
@@ -75,12 +70,13 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 * ソース管理 - [GitHub](https://github.com/)
 * 独自ドメイン - [Freenom](https://www.freenom.com/)
-* 公開 Web サーバ - [GitHub Pages](https://pages.github.com/)
+* 公開 Web サーバ - [Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja)
 
 ## 運営
 
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
+* 2019/04/05 運営サーバを Google App Engine へ移動（PHP 処理で大文字・小文字関係なく動作）
 * 2018/12/30 運営サーバを GitHub Pages へ移動（GET 参照可能に）
 * 2018/10/14 ソース GutHub 共有開始
 * 2018/10/11 運営開始
