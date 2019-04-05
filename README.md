@@ -43,7 +43,7 @@ GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降ま
 |[15ja.ml/B](https://github.com/fu-sen/15ja.ml/blob/master/B)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |
 |[15ja.ml/M](https://github.com/fu-sen/15ja.ml/blob/master/M)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| |
 |[15ja.ml/O](https://github.com/fu-sen/15ja.ml/blob/master/O)|[IchigoJamを楽しもう](http://www.openspc2.org/reibun/IchigoJam/)|dir/file|
-|[15ja.ml/R](https://github.com/fu-sen/15ja.ml/blob/master/R)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jam.netlify.com)| |
+|[15ja.ml/R](https://github.com/fu-sen/15ja.ml/blob/master/R)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jr.tk)| |
 |[15ja.ml/S](https://github.com/fu-sen/15ja.ml/blob/master/S)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file|
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
