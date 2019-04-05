@@ -1,3 +1,4 @@
+<?php
 if (empty($data))
 {
    echo '?"MJ GET comich.net/ichigojam/';
