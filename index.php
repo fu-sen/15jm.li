@@ -7,8 +7,8 @@ if ( substr ( $path , -1 ) === "/" )
     $path .= 'index.html';
 }
 
-$path = strtolower ( $path );
-$files = __DIR__ . "/www" . $path;
+$paths = strtolower ( $path );
+$files = __DIR__ . "/www" . $paths;
 
 if ( file_exists($files) && is_file($files) )
 {

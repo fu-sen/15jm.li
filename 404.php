@@ -4,10 +4,10 @@ http_response_code(404);
 header('Content-Type: text/plain');
 
 ?>
-'„Œ„ „      ˆ ˆ       Œ 4 0 4 ˆ
-'…„ „Œ„ ŒŒŒŠ †ˆŒˆŒˆˆˆŒˆˆˆŒˆŽ
-'…Œ… …ˆŠŠŠŠŠ ŠŠŠŽ … …ŠŽŠŽŠŠŠŽ
-'ŒŒ„Œ…ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
+'„ŒEE     EE      E4 0 4 E
+'EE„ŒEŒŒŒŠ EŒˆŒˆˆˆŒˆEŒˆE
+'EEEˆŠŠŠŠEŠŠŠŽ EEŽŠŽŠŠŠE
+'ŒŒ„ŒEŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
 <?php
-print '?"MJ GET 15ja.ml/' . $path;
+print '?"MJ GET 15ja.ml' . $path;
