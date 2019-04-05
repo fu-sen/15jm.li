@@ -8,7 +8,7 @@ if ( substr ( $path , -1 ) === "/" )
 }
 else
 {
-    list($t, $file, $data) = explode('/', $paths, 3);
+    list($t, $file, $data) = explode('/', $path, 3);
     $paths = "/" . strtolower ( $file );
 }
 
