@@ -4,5 +4,5 @@ if (empty($data))
 }
 else
 {
-   echo '?"MJ GET 15jr.tk/{$data}\n';
+   echo "?\"MJ GET 15jr.tk/{$data}\n";
 }

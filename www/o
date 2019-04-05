@@ -5,5 +5,5 @@ if (empty($data))
 }
 else
 {
-   echo '?"MJ GET www.openspc2.org/data/{$data}\n';
+   echo "?\"MJ GET www.openspc2.org/data/{$data}\n";
 }
