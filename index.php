@@ -4,10 +4,14 @@ $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
 if ( substr ( $path , -1 ) === "/" )
 {
-    $path .= 'index.html';
+    $paths = $path . 'index.html';
+}
+else
+{
+    list($t, $file, $data) = explode('/', $paths, 3);
+    $paths = "/" . strtolower ( $file );
 }
 
-$paths = strtolower ( $path );
 $files = __DIR__ . "/www" . $paths;
 
 if ( file_exists($files) && is_file($files) )

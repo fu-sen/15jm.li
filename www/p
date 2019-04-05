@@ -1,1 +1,9 @@
-?"MJ GETS ichigojam.net/p/
+<?php
+if (empty($data))
+{
+   echo '?"MJ GETS ichigojam.net/p/';
+}
+else
+{
+   echo '?"MJ GETS ichigojam.net/p/{$data}\n';
+}

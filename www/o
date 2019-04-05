@@ -1,1 +1,9 @@
-?"MJ GET www.openspc2.org/data/
+<?php
+if (empty($data))
+{
+   echo '?"MJ GET www.openspc2.org/data/';
+}
+else
+{
+   echo '?"MJ GET www.openspc2.org/data/{$data}\n';
+}
