@@ -2,7 +2,7 @@
 
 $userAgent = isset($_SERVER['HTTP_USER_AGENT'])? $_SERVER['HTTP_USER_AGENT'] : '';
 
-if (stripos($ua, 'MixJuice') !== false)
+if (stripos($ua, 'MixJuice') === false)
 {
     header("Location: https://github.com/fu-sen/15ja.ml", true, 301);
 
