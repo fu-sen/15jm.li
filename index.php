@@ -1,6 +1,6 @@
 <?php
 
-$userAgent = isset($_SERVER['HTTP_USER_AGENT'])? $_SERVER['HTTP_USER_AGENT'] : '';
+$ua = isset($_SERVER['HTTP_USER_AGENT'])? $_SERVER['HTTP_USER_AGENT'] : '';
 
 if (stripos($ua, 'MixJuice') === false)
 {
