@@ -4,7 +4,7 @@ $ua = isset($_SERVER['HTTP_USER_AGENT'])? $_SERVER['HTTP_USER_AGENT'] : '';
 
 if (stripos($ua, 'MixJuice') === false)
 {
-    header("Location: https://github.com/fu-sen/15ja.ml", true, 301);
+    header("Location: https://github.com/fu-sen/15jm.li", true, 301);
 
     exit;
 }
