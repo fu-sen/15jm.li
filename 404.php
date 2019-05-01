@@ -10,4 +10,4 @@ header('Content-Type: text/plain');
 '   ‚ƒ  ƒ      ‚ƒ ‚ ‚ƒ
 
 <?php
-print '?"MJ GET 15ja.ml' . $path;
+print '?"MJ GET 15jm.li' . $path;
