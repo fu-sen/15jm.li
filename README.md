@@ -40,13 +40,13 @@ GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降ま
 
 |アドレス|MixJuice コンテンツ|追加入力|
 ----|----|----
-|[15jm.li/K](https://github.com/fu-sen/15ja.ml/blob/master/K)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|
-|[15jm.li/P](https://github.com/fu-sen/15ja.ml/blob/master/P)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| |
-|[15jm.li/B](https://github.com/fu-sen/15ja.ml/blob/master/B)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |
-|[15jm.li/M](https://github.com/fu-sen/15ja.ml/blob/master/M)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| |
-|[15jm.li/O](https://github.com/fu-sen/15ja.ml/blob/master/O)|[IchigoJamを楽しもう](http://www.openspc2.org/reibun/IchigoJam/)|dir/file|
-|[15jm.li/R](https://github.com/fu-sen/15ja.ml/blob/master/R)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jr.tk)| |
-|[15jm.li/S](https://github.com/fu-sen/15ja.ml/blob/master/S)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file|
+|[15jm.li/K](https://github.com/fu-sen/15jm.li/blob/master/www/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|
+|[15jm.li/P](https://github.com/fu-sen/15jm.li/blob/master/www/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| |
+|[15jm.li/B](https://github.com/fu-sen/15jm.li/blob/master/www/b)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |
+|[15jm.li/M](https://github.com/fu-sen/15jm.li/blob/master/www/m)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| |
+|[15jm.li/O](https://github.com/fu-sen/15jm.li/blob/master/www/o)|[IchigoJamを楽しもう](http://www.openspc2.org/reibun/IchigoJam/)|dir/file|
+|[15jm.li/R](https://github.com/fu-sen/15jm.li/blob/master/www/r)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15j.run)| |
+|[15jm.li/S](https://github.com/fu-sen/15jm.li/blob/master/www/s)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file|
 
 <a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
