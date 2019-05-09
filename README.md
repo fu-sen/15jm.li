@@ -71,9 +71,10 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 利便性のため、[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) を採用し、\
 PHP を用いて次を処理しています。
 
-- MixJuice・MicJack 以外はこの GitHub リポジトリページへ転送します。
-- 15jm.li/●/～ を処理しています。
-- Not Found で入力した内容を再表示できるようにしています。
+- / 以降の文字を大文字・小文字関係なく出力するようにしています。（大文字を小文字に変換）
+- MixJuice・MicJack 以外の参照ははこの GitHub リポジトリページへ転送します。
+- 15jm.li/●/～ を処理しています。（裏技として次に入力する文字を入れられます）
+- Not Found の時に、入力していた内容を再表示して修正しやすくしています。
 
 このため PHP で処理しているところがありますが、実体は www/ 下のファイルを参照します。\
 MixJuice の使用量は 1 画面を埋めても 0.75k バイトなので、無料範囲で運用できていて、\
@@ -84,7 +85,7 @@ MixJuice の使用量は 1 画面を埋めても 0.75k バイトなので、無�
 イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
 
 * 2019/05/01 ドメインを 15jm.li へ変更
-* 2019/04/05 運営サーバを Google App Engine へ移動（PHP 処理で大文字・小文字関係なく動作）
+* 2019/04/05 運営サーバを Google App Engine へ移動（PHP で処理するように）
 * 2018/12/30 運営サーバを GitHub Pages へ移動（GET 参照可能に）
 * 2018/10/14 ソース GutHub 共有開始
 * 2018/10/11 運営開始
