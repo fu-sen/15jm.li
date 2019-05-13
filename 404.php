@@ -1,13 +1,5 @@
-<?php
-
-http_response_code(404);
-header('Content-Type: text/plain');
-
-?>
-'   …   Š     ‡ƒ  4  0  4  …
-'  ‡„…†ƒ„‹ƒ   Œ„†ƒ„…Š ‡ƒ„†‰…
-'  …Š…… …Š     …  … ……Š … …… …
-'   ‚ƒ  ƒ      ‚ƒ ‚ ‚ƒ
+'  ãƒ»ãƒ»  ãƒ»    ããƒ» 4  0  4  ãƒ»'  â„¡ãƒ»ãƒ¤æ³£ãƒ»  è½ŸÑ„ãƒ¤ãƒ» ãÑ„æ€¨
+'  ãƒ»ãƒ» ãƒ»     ãƒ» ãƒ»ãƒ»ãƒ»ãƒ»ãƒ» ãƒ»'  ãƒ»â‰ ãƒ» ãƒ»   ãƒ» ï½ƒ ï½ï¼ â‰ ãƒ¡
 
 <?php
 print '?"MJ GET 15jm.li' . $path;
