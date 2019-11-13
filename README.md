@@ -18,8 +18,7 @@ MixJuice はこの転送方法を処理できません。\
 
 ## 使用方法
 
-IchigoJam BASIC+MixJuice 環境より、次を入力します。\
-MixJuice 1.2.2 以降および MicJack は GET の代わりに GETS も使用可能です。
+IchigoJam BASIC+MixJuice 環境より、次を入力します。GET の代わりに GETS も使用可能です。
 
 ```
 ?"MJ GET 15jm.li/
