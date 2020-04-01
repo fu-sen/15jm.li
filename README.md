@@ -48,7 +48,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。GET の代わり
 |[15jm.li/R](https://github.com/fu-sen/15jm.li/blob/master/www/r)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15j.run)| |
 |[15jm.li/S](https://github.com/fu-sen/15jm.li/blob/master/www/s)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file|
 
-<a href="https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
+<a href="https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
 ## 追加方法
 
