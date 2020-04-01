@@ -40,6 +40,7 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。GET の代わり
 |アドレス|MixJuice コンテンツ|追加入力|
 ----|----|----
 |[15jm.li/K](https://github.com/fu-sen/15jm.li/blob/master/www/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|
+|[15jm.li/C](https://github.com/fu-sen/15jm.li/blob/master/www/c)|[IchigoJam club](https://fukuno.jig.jp/2807)| |
 |[15jm.li/P](https://github.com/fu-sen/15jm.li/blob/master/www/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| |
 |[15jm.li/B](https://github.com/fu-sen/15jm.li/blob/master/www/b)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |
 |[15jm.li/M](https://github.com/fu-sen/15jm.li/blob/master/www/m)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| |
