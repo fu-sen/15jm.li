@@ -82,7 +82,7 @@ MixJuice の使用量は 1 画面を埋めても 0.75k バイトなので、無�
 
 ## 運営
 
-イチゴジャム レシピ https://15jamrecipe.jimdo.com/ が管理しています。
+イチゴジャム レシピ https://15jamrecipe.jimdofree.com/ が管理しています。
 
 * 2019/05/01 ドメインを 15jm.li へ変更
 * 2019/04/05 運営サーバを Google App Engine へ移動（PHP で処理するように）
