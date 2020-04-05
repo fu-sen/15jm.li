@@ -13,7 +13,7 @@ $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
 if ( substr ( $path , -1 ) === "/" )
 {
-    $paths = $path . 'index.html';
+    $paths = $path . 'index';
 }
 else
 {
