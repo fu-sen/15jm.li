@@ -33,6 +33,8 @@ IchigoJam BASIC+MixJuice 環境より、次を入力します。GET の代わり
 で目的のサイトへ転送、<br>
 または GET・GETS コマンドの途中までを表示し、入力によって補完します。
 
+GETS は MixJuice 1.2.2 以降で有効です。
+
 ## 15jm.li 登録コンテンツ
 
 現在 15jm.li で登録している MixJuice コンテンツは次のとおりです。
