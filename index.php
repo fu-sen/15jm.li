@@ -34,5 +34,5 @@ if ( file_exists($files) && is_file($files) )
 }
 else
 {
-    require "404.php";
+    require "404";
 }
