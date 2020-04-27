@@ -1,14 +1,5 @@
 <?php
 
-$ua = isset($_SERVER['HTTP_USER_AGENT'])? $_SERVER['HTTP_USER_AGENT'] : '';
-
-if (stripos($ua, 'MixJuice') === false)
-{
-    header("Location: https://github.com/fu-sen/15jm.li", true, 301);
-
-    exit;
-}
-
 $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
 if ( substr ( $path , -1 ) === "/" )
