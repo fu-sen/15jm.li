@@ -21,7 +21,12 @@ else
     $paths = "/" . strtolower ( $file );
 }
 
-$files = __DIR__ . "/www" . $paths;
+if ( $paths == "/index.php" )
+{
+    $paths = "/index";
+}
+
+$files = __DIR__ . $paths;
 
 if ( file_exists($files) && is_file($files) )
 {
