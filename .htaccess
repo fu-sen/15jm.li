@@ -1,6 +1,4 @@
 RewriteEngine On
-
-RewriteEngine On
 RewriteBase /
 
 RewriteCond %{HTTP_USER_AGENT} !(MixJuice) [NC]
