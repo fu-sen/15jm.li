@@ -56,10 +56,10 @@ GETS は MixJuice 1.2.2 以降で有効です。
 
 15jm.li からの参照は IchigoJam BASIC+MixJuice で参照できるコンテンツに限られます。\
 独自ドメインの特性上、パソコン・スマートフォン向け Web へのリンクは行いません。\
-Issues・Pull Request していただくか、直接管理人へご連絡下さい。
+Issues・Pull Request していただくか、直接 [管理人 ふうせん🎈 Fu-sen.](https://jpn.balloon.im/)へご連絡下さい。
 
-www 下が実際に表示している内容ですが、404.php は Not Found で表示します。\
-www/index.html・404.php は IchigoJam BASIC で表示するためのキャラクターを含めています。\
+`index.html` の代わりが `index`、Not Found は `404` を表示します。\
+`index` および `404` は IchigoJam BASIC で表示するためのキャラクターを含めています。\
 IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集できます。\
 ただし、末尾に改行が含まれるため、バイナリーエディターで削除が必要です。
 
@@ -70,7 +70,7 @@ IJUtilities でファイルを開くと、実際の IchigoJam 表示で編集で
 
 ## 管理状態
 
-利便性のため、[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) を採用し、\
+2020年4月より [さくらのレンタルサーバ](https://www.sakura.ne.jp/) を採用しています。\
 PHP を用いて次を処理しています。
 
 - / 以降の文字を大文字・小文字関係なく出力するようにしています。（大文字を小文字に変換）
@@ -78,15 +78,9 @@ PHP を用いて次を処理しています。
 - 15jm.li/●/～ を処理しています。（裏技として次に入力する文字を入れられます）
 - Not Found の時に、入力していた内容を再表示して修正しやすくしています。
 
-このため PHP で処理しているところがありますが、実体は www/ 下のファイルを参照します。\
-MixJuice の使用量は 1 画面を埋めても 0.75k バイトなので、無料範囲で運用できていて、\
-15jm.li のドメイン費用のみ運営者が負担している状況です。
-
 ## 運営
 
 イチゴジャム レシピ https://15jamrecipe.jimdofree.com/ が管理しています。
-
-Powered by さくらのレンタルサーバ https://www.sakura.ne.jp/
 
 - 2020/04/27 運営サーバを さくらのレンタルサーバ へ移動
 - 2019/05/01 ドメインを 15jm.li へ変更
