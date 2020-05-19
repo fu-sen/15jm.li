@@ -1,7 +1,7 @@
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_HOST} sakura.ne.jp
+RewriteCond %{HTTP_HOST} !15jm.li
 RewriteRule .* - [R=404,L]
 
 RewriteCond %{HTTP_USER_AGENT} !MixJuice [NC]
