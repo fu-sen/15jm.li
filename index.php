@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: *");
+header('Access-Control-Allow-Origin: *');
 
 $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
