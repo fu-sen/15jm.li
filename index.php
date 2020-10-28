@@ -1,6 +1,15 @@
 <?php
 header('Access-Control-Allow-Origin: *');
 
+if (empty($_SERVER['HTTPS']))
+{
+    $get = "GET";
+}
+else
+{
+    $get = "GETS";
+}
+
 $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
 if ( substr ( $path , -1 ) === "/" )
