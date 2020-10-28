@@ -1,6 +1,6 @@
 '’Š€‚„’‘ 15jm.li ‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 '’Šƒƒƒ’    MixJuice ÀÝ¼­¸ URL
-'’‚   ’[é] = ?"MJ GET 15JM.LI/é
+'’‚   ’[é]?"MJ GET(S) 15JM.LI/é
 '’ˆŠ‹’‘€º³¼· ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 '’Š ŠŠ’[K] Kidspod;        (id)
 '’ ƒ‚’[C] IchigoJam club
@@ -19,4 +19,4 @@
 '’  ˆ ’    by Shiro Saito(file)
 '’‚ƒƒ‚’‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 
-?"MJ GET 15jm.li/
+?"MJ <?php print"$get"; ?> 15jm.li/
