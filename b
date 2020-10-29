@@ -1,10 +1,10 @@
 <?php
 if (empty($data))
 {
-   echo "?\"MJ GET bokunimowakaru.github.io/MJ/\n";
+   echo "?\"MJ {$get} bokunimowakaru.github.io/MJ/\n";
 }
 else
 {
    $page = $data * 100;
-   echo "?\"MJ GET bokunimowakaru.github.io/MJ/{$page}.txt\n";
+   echo "?\"MJ {$get} bokunimowakaru.github.io/MJ/{$page}.txt\n";
 }
