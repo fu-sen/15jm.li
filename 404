@@ -4,4 +4,4 @@
 '   ‚ƒ  ƒ      ‚ƒ ‚ ‚ƒ
 
 <?php
-print '?"MJ " . $get . " 15jm.li' . $path;
+print '?"MJ ' . $get . ' 15jm.li' . $path;
