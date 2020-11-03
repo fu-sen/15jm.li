@@ -1,3 +1,4 @@
 .git-ftp-ignore
+docs/*
 README.md
 screenshot.jpg
