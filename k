@@ -7,7 +7,7 @@ if (empty($data))
 }
 else
 {
-   $get = "kidspod.club/mj/{$data}";
-   echo "' MJ GET {$get}\n";
-   echo file_get_contents("http://{$get}");
+   $kidspod = "kidspod.club/mj/{$data}";
+   echo "' MJ GET {$kidspod}\n";
+   echo file_get_contents("http://{$kidspod}");
 }
