@@ -1,9 +1,13 @@
 <?php
 if (empty($data))
 {
-   echo "?\"MJ GET kidspod.club/mj/";
+   echo "'Input (ID)\n";
+   echo "'GET URL : kidspod.club/mj/(ID)\n";
+   echo "?\"MJ GET 15jm.li/k/";
 }
 else
 {
-   echo "?\"MJ GET kidspod.club/mj/{$data}\n";
+   $get = "kidspod.club/mj/{$data}";
+   echo "' MJ GET {$get}\n";
+   echo file_get_contents("http://{$get}");
 }
