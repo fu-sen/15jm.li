@@ -49,7 +49,7 @@ GET・GETS の違いは一部コンテンツのコマンドで継承します。
 
 |アドレス|MixJuice コンテンツ|追加入力|IchigoJam web|
 |----|----|----|----|
-|[15JM.LI/数字](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|対応 ※|
+|[15JM.LI/数字](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)（数字=Kidspod; ID）||対応 ※|
 |[15JM.LI/K](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|対応 ※|
 |[15JM.LI/C](https://github.com/fu-sen/15jm.li/blob/master/c)|[IchigoJam club](https://fukuno.jig.jp/2807)| | |
 |[15JM.LI/P](https://github.com/fu-sen/15jm.li/blob/master/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| | |
