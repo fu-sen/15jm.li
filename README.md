@@ -49,6 +49,7 @@ GET・GETS の違いは一部コンテンツのコマンドで継承します。
 
 |アドレス|MixJuice コンテンツ|追加入力|IchigoJam web|
 |----|----|----|----|
+|[15JM.LI/数字](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|対応 ※|
 |[15JM.LI/K](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|対応 ※|
 |[15JM.LI/C](https://github.com/fu-sen/15jm.li/blob/master/c)|[IchigoJam club](https://fukuno.jig.jp/2807)| | |
 |[15JM.LI/P](https://github.com/fu-sen/15jm.li/blob/master/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| | |
@@ -92,6 +93,7 @@ PHP を用いて次を処理しています。
 
 イチゴジャム レシピ https://15jamrecipe.jimdofree.com/ が管理しています。
 
+- 2020/12/12 15jm/li/数字 で Kidspod; に対応
 - 2020/10/29 IchigoJam web の バーチャル MixJuice に対応
 - 2020/04/27 運営サーバを さくらのレンタルサーバ へ移動
 - 2019/05/01 ドメインを 15jm.li へ変更

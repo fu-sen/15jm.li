@@ -19,6 +19,13 @@ if ( substr ( $path , -1 ) === "/" )
 else
 {
     list($t, $file, $data) = explode('/', $path, 3);
+
+    if ( is_numeric($file) )
+    {
+       $data = $file;
+       $file = "k";
+    }
+
     $paths = "/" . strtolower ( $file );
 }
 
