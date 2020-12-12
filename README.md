@@ -93,7 +93,7 @@ PHP を用いて次を処理しています。
 
 イチゴジャム レシピ https://15jamrecipe.jimdofree.com/ が管理しています。
 
-- 2020/12/12 15jm/li/数字 で Kidspod; に対応
+- 2020/12/12 15jm.li/数字 で Kidspod; に対応
 - 2020/10/29 IchigoJam web の バーチャル MixJuice に対応
 - 2020/04/27 運営サーバを さくらのレンタルサーバ へ移動
 - 2019/05/01 ドメインを 15jm.li へ変更
