@@ -54,6 +54,7 @@ GET・GETS の違いは一部コンテンツのコマンドで継承します。
 |[15JM.LI/C](https://github.com/fu-sen/15jm.li/blob/master/c)|[IchigoJam club](https://fukuno.jig.jp/2807)| | |
 |[15JM.LI/P](https://github.com/fu-sen/15jm.li/blob/master/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| | |
 |[15JM.LI/B](https://github.com/fu-sen/15jm.li/blob/master/b)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |対応|
+|[15JM.LI/R](https://github.com/fu-sen/15jm.li/blob/master/i)|[イチゴジャム レシピ MixJuice コンテンツ 短縮 URL](https://github.com/fu-sen/15j.in)| |対応|
 |[15JM.LI/M](https://github.com/fu-sen/15jm.li/blob/master/m)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| | |
 |[15JM.LI/O](https://github.com/fu-sen/15jm.li/blob/master/o)|[IchigoJamを楽しもう](http://www.openspc2.org/reibun/IchigoJam/)|dir/file| |
 |[15JM.LI/R](https://github.com/fu-sen/15jm.li/blob/master/r)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15j.run)| |対応|
