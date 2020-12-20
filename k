@@ -8,7 +8,7 @@ if (empty($data))
 else
 {
    $kidspod = "kidspod.club/mj/{$data}";
-   echo "\x13\x0cCLS\n";
+   echo "\x13\x0c\n";
    echo "NEW\n";
    echo "' MJ GET {$kidspod}\n";
    echo file_get_contents("http://{$kidspod}");
