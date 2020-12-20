@@ -1,24 +1,24 @@
-'    ’‘ 15jm.li ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+'    ’‘ 15JM.LI ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 'Š€‚„’    MixJuice ÀÝ¼­¸ URL
 'Šƒƒƒ’[é] ?"MJ GET(S) 15JM.LI/é
 '‚   ’‘€º³¼· ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 'ˆŠ‹’[K] [½³¼Þ] Kidspod;  (id)
 'Š ŠŠ’[C] IchigoJam club
 ' ƒ‚’[P] ichigojam.net
-'„   ’           ÌßÛ¸Þ×Ñ ºÚ¸¼®Ý
-'‰ŒŽˆ’‘ Õ°»Þ° ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
-'    ’[B] ÎÞ¸ÆÓ Ü¶Ù
-'‚ƒ‹ ’             for MixJuice
-'‚ƒ‹ ’[I] ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
-'‚ƒ ’ MixJuice ºÝÃÝÂ ÀÝ¼­¸ URL
-'    ’[M] Micono Utilities
-'‚   ’             for MixJuice
+'ˆ  ’           ÌßÛ¸Þ×Ñ ºÚ¸¼®Ý
+'‚ŒŒŽ’‘ Õ°»Þ° ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+'   ‚’[B] ÎÞ¸ÆÓ Ü¶Ù
+'‚ƒ‹‡’             for MixJuice
+' ƒ‹„’[I] ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
+'‚ƒƒƒ’ MixJuice ºÝÃÝÂ ÀÝ¼­¸ URL
+'ˆ„  ’[M] Micono Utilities
+'‚  ’             for MixJuice
 '    ’[O] IchigoJam ¦ ÀÉ¼Ó³
-'   ˆ’               (dir/file)
-'Šƒƒƒ’[R] ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
-'    ’           MixJuice ºÝÃÝÂ
-'  ˆ ’[S] IchigoJam ÌßÛ¸Þ×Ñ¼­³
-'‚ƒƒ‚’    by Shiro Saito (file)
+'Šƒƒƒ’               (dir/file)
+'Š   ’[R] ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
+'‚   ’           MixJuice ºÝÃÝÂ
+'ˆ  ˆ’[S] IchigoJam ÌßÛ¸Þ×Ñ¼­³
+'Šƒƒ‹’    by Shiro Saito (file)
 '    ’‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
 
 ?"MJ <?php print"$get"; ?> 15jm.li/

@@ -1,6 +1,6 @@
-## 15jm.li - MixJuice 短縮 URL
+## 15JM.LI - MixJuice 短縮 URL
 
-![15jm.li スクリーンショット](/screenshot.jpg)
+![15JM.LI スクリーンショット](/screenshot.jpg)
 
 MixJuice を使っていて困っていたのが
 
@@ -43,24 +43,24 @@ GET の代わりに GETS も使用可能です。GETS は MixJuice 1.2.2 以降�
 または GET・GETS コマンドの途中までを表示し、入力によって補完します。\
 GET・GETS の違いは一部コンテンツのコマンドで継承します。
 
-## 15jm.li 登録コンテンツ
+## 15JM.LI 登録コンテンツ
 
-現在 15jm.li で登録している MixJuice コンテンツは次のとおりです。
+現在 15JM.LI で登録している MixJuice コンテンツは次のとおりです。
 
 |アドレス|MixJuice コンテンツ|追加入力|IchigoJam web|
 |----|----|----|----|
 |[15JM.LI/数字](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)（数字=Kidspod; ID）||対応 ※|
 |[15JM.LI/K](https://github.com/fu-sen/15jm.li/blob/master/k)|[Kidspod;](http://kidspod.club/)|Kidspod; ID|対応 ※|
 |[15JM.LI/C](https://github.com/fu-sen/15jm.li/blob/master/c)|[IchigoJam club](https://fukuno.jig.jp/2807)| | |
-|[15JM.LI/P](https://github.com/fu-sen/15jm.li/blob/master/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| | |
+|[15JM.LI/P](https://github.com/fu-sen/15jm.li/blob/master/p)|[ichigojam.net プログラムコレクション](https://www.facebook.com/groups/ichigojam/permalink/718281468311609/)| |対応 ※|
 |[15JM.LI/B](https://github.com/fu-sen/15jm.li/blob/master/b)|[ボクにもわかる for MixJuice](https://blogs.yahoo.co.jp/bokunimowakaru/55369582.html)| |対応|
 |[15JM.LI/I](https://github.com/fu-sen/15jm.li/blob/master/i)|[イチゴジャム レシピ MixJuice コンテンツ 短縮 URL](https://github.com/fu-sen/15j.in)| |対応|
 |[15JM.LI/M](https://github.com/fu-sen/15jm.li/blob/master/m)|[Micono Utilities for MixJuice](http://ijutilities.micutil.com/)| | |
 |[15JM.LI/O](https://github.com/fu-sen/15jm.li/blob/master/o)|[IchigoJamを楽しもう](http://www.openspc2.org/reibun/IchigoJam/)|dir/file| |
 |[15JM.LI/R](https://github.com/fu-sen/15jm.li/blob/master/r)|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15j.run)| |対応|
-|[15JM.LI/S](https://github.com/fu-sen/15jm.li/blob/master/s)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file| |
+|[15JM.LI/S](https://github.com/fu-sen/15jm.li/blob/master/s)|[IchigoJamプログラム集 by Shiro Saito](http://comich.net/ichigojam/)|file|対応 ※|
 
-※ Kidspod; 自体は IchigoJam web 非対応ですが、15jm.li 経由で使用可能です。
+※ 元々のコンテンツでは IchigoJam web 非対応ですが、15jm.li 経由で使用可能です。
 
 <a href="https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/" target="_blank">MixJuice/コンテンツ | イチゴジャム レシピ</a> に画像付の一覧があります。
 
