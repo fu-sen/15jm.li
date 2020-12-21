@@ -1,7 +1,7 @@
 <?php
 if (empty($data))
 {
-    echo <<<EOF
+    echo <<<EOT
 ' ?"MJ {$get} 15JM.LI/P/~
 ' ichigojam.net ÌßÛ¸Þ×Ñ ºÚ¸¼®Ý
 ' ichigojam.net/p \xE1 15jm.li/p
@@ -9,7 +9,7 @@ if (empty($data))
 ' ~ = index \xE1 Ä¯ÌßÍß°¼Þ
 
 ?"MJ {$get} 15jm.li/p/index
-EOF;
+EOT;
 
     exit;
 }
