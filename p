@@ -1,15 +1,30 @@
 <?php
 if (empty($data))
 {
-    $index = file_get_contents("https://ichigojam.net/p/");
-    $index = str_replace( "ichigojam.net/p" ,"15jm.li/p" , $index);
-    $index = str_replace( ".TXT" ,"" , $index);
-    echo $index;
-    echo "?\"MJ {$get} 15jm.li/p/";
+    echo <<<EOF
+' ?"MJ {$get} 15JM.LI/P/~
+' ichigojam.net ÌßÛ¸Þ×Ñ ºÚ¸¼®Ý
+' ichigojam.net/p \xE1 15jm.li/p
+'
+' ~ = index \xE1 Ä¯ÌßÍß°¼Þ
+
+?"MJ {$get} 15jm.li/p/index
+EOF;
+
+    exit;
 }
 else
 {
     $data = strtoupper ( $data );
+
+    if (strpos($data,'INDEX')!==FALSE)
+    {
+        $ichigojam = "ichigojam.net/p/";
+        echo file_get_contents("https://{$ichigojam}");
+        echo "?\"MJ {$get} 15jm.li/p/";
+ 
+        exit;
+    }
 
     if (strpos($data,'.TXT')===FALSE)
     {
@@ -18,4 +33,6 @@ else
 
     $ichigojam = "ichigojam.net/p/{$data}";
     echo file_get_contents("https://{$ichigojam}");
+
+    exit;
 }
