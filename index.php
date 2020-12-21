@@ -12,14 +12,14 @@ else
 
 $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
-if ( substr ( $path , -1 ) === "/" )
+list($t, $file, $data) = explode('/', $path, 3);
+
+if (empty($file) || $file == "index.php" )
 {
-    $paths = $path . 'index';
+    $paths = "/index";
 }
 else
 {
-    list($t, $file, $data) = explode('/', $path, 3);
-
     if ( is_numeric($file) )
     {
        $data = $file;
@@ -27,11 +27,6 @@ else
     }
 
     $paths = "/" . strtolower ( $file );
-}
-
-if ( $paths == "/index.php" )
-{
-    $paths = "/index";
 }
 
 $files = __DIR__ . $paths;
