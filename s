@@ -1,9 +1,20 @@
 <?php
 if (empty($data))
 {
-    echo "'Input (File Name)\n";
-    echo "'Browse: http://comich.net/ichigojam/\n";
-    echo "?\"MJ {$get} 15jm.li/s/";
+    echo <<<EOT
+' ?"MJ {$get} 15JM.LI/S/~
+' IchigoJam ÌßÛ¸Þ×Ñ ¼­³
+'                by Shiro Saito
+' comich.net/ichigojam/~
+'                 \xE1 15jm.li/s/~
+'
+' ²Á×Ý Ê Web »Ý¼®³:
+'  http://comich.net/ichigojam/
+
+?"MJ {$get} 15jm.li/s/
+EOT;
+
+    exit;
 }
 else
 {
@@ -20,4 +31,6 @@ else
     echo "' MJ GET {$comich}\n";
     echo file_get_contents("http://{$comich}");
     echo "'OK\n";
+
+    exit;
 }

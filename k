@@ -1,9 +1,19 @@
 <?php
 if (empty($data))
 {
-   echo "'Input (ID)\n";
-   echo "'GET URL : kidspod.club/mj/(ID)\n";
-   echo "?\"MJ {$get} 15jm.li/k/";
+    echo <<<EOT
+' ?"MJ {$get} 15JM.LI/K/~ ÏÀÊ
+' ?"MJ {$get} 15JM.LI/~
+' Kidspod;
+' kidspod.club/mj/~ \xE1 15jm.li/~
+'
+' ²Á×Ý Ê Kidspod; »Ý¼®³:
+'          http://kidspod.club/
+
+?"MJ {$get} 15jm.li/k/
+EOT;
+
+    exit;
 }
 else
 {
