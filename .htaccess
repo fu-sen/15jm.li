@@ -4,4 +4,8 @@ RewriteBase /
 RewriteCond %{HTTP_HOST} !15jm.li
 RewriteRule .* - [R=404,L]
 
+RewriteCond %{HTTP_USER_AGENT} !MixJuice
+RewriteCond %{HTTP_REFERER} !fukuno.jig.jp
+RewriteRule .* https://github.com/fu-sen/15jm.li [R=301,L]
+
 RewriteRule .* index.php [L]
