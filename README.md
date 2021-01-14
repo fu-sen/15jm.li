@@ -68,7 +68,7 @@ GET・GETS の違いは一部コンテンツのコマンドで継承します。
 
 15jm.li からの参照は IchigoJam BASIC+MixJuice で参照できるコンテンツに限られます。\
 独自ドメインの特性上、パソコン・スマートフォン向け Web へのリンクは行いません。\
-Issues・Pull Request していただくか、直接 [管理人 ふうせん🎈 Fu-sen.](https://balloon.im/)へご連絡下さい。
+Issues・Pull Request していただくか、直接 [管理人 ふうせん🎈 FU-SEN](https://balloon.im/)へご連絡下さい。
 
 `index.html` の代わりが `index`、Not Found は `404` を表示します。\
 `index` および `404` は IchigoJam BASIC で表示するためのキャラクターを含めています。\
