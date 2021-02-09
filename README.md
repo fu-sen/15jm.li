@@ -5,7 +5,7 @@
 MixJuice を使っていて困っていたのが
 
 ```
-?"MJ GET balloon.vg/15jm.li/
+?"MJ GET fu-sen.bal.gdn/15jm.li/
 ```
 
 このような長いアドレスを手入力する必要があった事です。\
