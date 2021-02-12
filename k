@@ -22,5 +22,6 @@ else
    echo "NEW\n";
    echo "' MJ GET {$kidspod}\n";
    echo file_get_contents("http://{$kidspod}");
+   echo "\n";
    echo "'OK\n";
 }
