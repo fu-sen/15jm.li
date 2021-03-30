@@ -5,7 +5,7 @@
 MixJuice を使っていて困っていたのが
 
 ```
-?"MJ GET iam.balloon.net.eu.org/15jm.li/
+?"MJ GET 15jam.net.eu.org/
 ```
 
 このような長いアドレスを手入力する必要があった事です。\
