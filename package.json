@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "deploy": "git ftp deploy"
+    "deploy": "git ftp push"
   }
 }
